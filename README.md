@@ -1,9 +1,10 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+# Register no.:212223060285
+# Aim: 
+To perform the Exploration of Prompting Techniques for Video Generation
+# Algorithm: 
+Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
@@ -30,17 +31,25 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+## Procedure
+# 1. Familiarize Yourself with Video Generation Models
+Explore AI tools capable of generating videos from text prompts:
+
+Runway Gen-2
+Synthesia
+Pictory
+DeepBrain AI
+Understand their capabilities, limitations, output duration, style options, and supported features before starting.
+
+# 2. Create Simple Prompts for Video Generation
+Begin with basic prompts to observe how AI interprets simple actions.
+
+Example Prompt:
+
+A person walking in a park.
+## Output :
+<img width="1033" height="698" alt="image" src="https://github.com/user-attachments/assets/30ae32c8-d610-447d-b088-a847b00d8694" />
 
 
 # Result: The Prompt of the above task executed successfully
-
-
-
-
-
-
-
-
-
-# Result:
 
